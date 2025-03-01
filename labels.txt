@@ -1,0 +1,3 @@
+0 Taza de café
+1 Cerveza
+2 Botella de agua
